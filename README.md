@@ -42,7 +42,8 @@ Grafik di atas membandingkan biaya per kontribusi gol (gabungan gol dan assist) 
 1. Clone repositori ini:
 
    ```bash
-   git clone [Link](Link)
+   git clone [https://github.com/maulthepublic](https://github.com/maulthepublic/Premier_league_analysis))
+
 
    ```
 
