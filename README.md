@@ -96,7 +96,7 @@ The chart above compares the cost per goal contribution (combined goals and assi
 1. Clone this repository:
 
    ```bash
-   git clone [Link](Link)
+   git clone [https://github.com/maulthepublic](https://github.com/maulthepublic/Premier_league_analysis))
    ```
 
 2. Install the required libraries
@@ -105,8 +105,8 @@ The chart above compares the cost per goal contribution (combined goals and assi
 
 3. Open and run the file analisis_premier_league.ipynb in Jupyter Notebook.
 
-~Terima kasih atas perhatianya~
-~Thank you for your attention~
+**Terima kasih atas perhatianya**
+**Thank you for your attention**
 
 Connect to me in:
 Linkedin: https://www.linkedin.com/in/maulana-ardi23/
